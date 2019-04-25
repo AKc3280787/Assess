@@ -1,3 +1,8 @@
-Hello this is a test for comments
-Second test
-T
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
